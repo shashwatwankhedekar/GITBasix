@@ -1,1 +1,1 @@
-# FirstProj GIT x Liux
+# FirstProj GIT x Linux
